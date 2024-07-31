@@ -1,3 +1,5 @@
+**This project is part of the assignments for students in the computer science major in the subject of Artificial Neural Networks and Deep Learning.**
+
 # Weather Prediction Model
 
 This repository houses a model developed to predict weather conditions specifically using Recurrent Neural Network (RNN) technology. The model features LSTM (Long Short-Term Memory) layers, which are tailored to handle the sequential nature of time-series data in weather prediction.
